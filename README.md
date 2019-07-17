@@ -22,4 +22,4 @@ Library:
 
 Additional Information:
 
--   Tutorial bugged.
+-   Tutorial buggy.
