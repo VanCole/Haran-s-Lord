@@ -19,3 +19,7 @@ Time:
 Library:
 
 -   SFML.
+
+Additional Information:
+
+Tutorial bugged.
